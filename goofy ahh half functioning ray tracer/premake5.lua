@@ -1,4 +1,4 @@
-project "goofy ahh half functioning ray tracer"
+project "Raytracer"
    kind "ConsoleApp"
    language "C++"
    cppdialect "C++17"
