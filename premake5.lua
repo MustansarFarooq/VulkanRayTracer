@@ -1,5 +1,5 @@
 -- premake5.lua
-workspace "goofy ahh half functioning ray tracer"
+workspace "Raytracer"
    architecture "x64"
    configurations { "Debug", "Release", "Dist" }
    startproject "goofy ahh half functioning ray tracer"
