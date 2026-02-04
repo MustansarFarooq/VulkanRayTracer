@@ -2,7 +2,11 @@
 
 UI made with [Walnut](https://github.com/TheCherno/Walnut)
 
-
+- Implemented a ray-tracing pipeline
+- Relies on Vulkan and GLUT as a backend
+- ONLY has ray-sphere intersection implemented so far.
+    - Ability to simulate different materials of different smoothness.
+      
 
 
 LICENSE: 
